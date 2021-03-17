@@ -1,19 +1,19 @@
 # B2B-event-ticketing-platform-Design-in-SQL
 ## Business requirements:
 
-Design a transactional database to analyze B2B event ticketing platform data for managing:
+I designed a B2B transactional ticketing platform. I would like to build a reporting system that will help decision-maker analyze business results and the needs of selling event tickets. 
+
+In this task, I would like to track ticket sales by venue organizers and resellers. Resellers get a different commission per sold ticket based on different event. Resellers can have multiple branches offices or sell on their websites, while venue organizers can sell on-site or online. 
+
+Key tables:
 
 ● Venue organizers 
 
-● Venues and tickets
+● Customers
 
 ● Resellers
 
 ● Sold tickets 
-
-## In this task:
-
-I will track ticket sales by venue organizers and resellers. Resellers get a fixed commission per sold ticket. Resellers can have multiple branches offices or sell on their websites, while venue organizers can sell on-site or online.
 
 ## Reporting:
 
